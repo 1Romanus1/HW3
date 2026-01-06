@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //Задача N1
+        //Задача 1
         int age = 28;
         if (age >= 18) {
             System.out.println("Если возраст человека равен " + age + " он совершеннолетний");
